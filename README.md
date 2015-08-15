@@ -1,5 +1,5 @@
 # Jekyll and Purecss starterpack
-A Jekyll theme with Yahoo's pure css library. Good for static web development project.
+A Jekyll theme with [Yahoo's pure css library](http://purecss.io/). Good for static web development project.
 
 ![pure](https://cloud.githubusercontent.com/assets/1572632/9288488/e47b3b0e-4372-11e5-8320-abde8b767f2d.png)
 
